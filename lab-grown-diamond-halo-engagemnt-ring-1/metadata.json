@@ -1,0 +1,74 @@
+{
+  "id": 8257952153798,
+  "title": "Lab Grown Diamond Halo Engagement Ring",
+  "handle": "lab-grown-diamond-halo-engagemnt-ring-1",
+  "url": "https://www.beneicedo.com/products/lab-grown-diamond-halo-engagemnt-ring-1",
+  "product_type": "lab ring",
+  "vendor": "BeneiceDo",
+  "tags": [
+    "Lab Grown Diamond Solitaire Engagemnt Ring",
+    "Round"
+  ],
+  "options": [
+    "Title"
+  ],
+  "carats_available": [
+    "Default Title"
+  ],
+  "sizes_available": [],
+  "price_min": 1700.0,
+  "price_max": 1700.0,
+  "currency": "USD",
+  "in_stock": true,
+  "created_at": "2024-07-03T03:37:18-07:00",
+  "updated_at": "2026-06-21T06:14:00-07:00",
+  "published_at": "2024-10-11T02:06:34-07:00",
+  "description": "The Halo ring in 18K White Gold with a round brilliant Lab-Grown Diamond\n\nThe Halo engagement ring is our rendition of a classically romantic setting. Celebrate your love with this exquisite 18K white gold engagement ring, featuring a breathtaking lab-grown diamond at its center, encircled by a halo of smaller diamonds. The band is adorned with additional diamonds, adding extra brilliance and sparkle. This elegant ring  represents a timeless commitment\n\nMaterial：18k White gold\nStone: Lab Grown Diamond\nCarat Weight: 1.0ct\nColor Grade : D\nClarity Grade: VVS2\nCut Grade: Excellent",
+  "variants": [
+    {
+      "id": 43926633185478,
+      "sku": "KRKC-0008-RI-LG-18K-SL-6.5mm",
+      "title": "Default Title",
+      "carat": "Default Title",
+      "size": null,
+      "price": "1700.00",
+      "compare_at_price": null,
+      "available": true,
+      "grams": 0
+    }
+  ],
+  "images": [
+    {
+      "file": "01.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/1_02b8e98b-ebbc-4da9-bf39-30ad4d87a468.jpg?v=1731292943",
+      "width": 1000,
+      "height": 1000,
+      "position": 1,
+      "downloaded": true
+    },
+    {
+      "file": "02.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/SDA3558_3.jpg?v=1720074153",
+      "width": 2160,
+      "height": 2160,
+      "position": 2,
+      "downloaded": true
+    },
+    {
+      "file": "03.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/SDA3558_2.jpg?v=1720074153",
+      "width": 2160,
+      "height": 2160,
+      "position": 3,
+      "downloaded": true
+    },
+    {
+      "file": "04.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/SDA3558_1.jpg?v=1720074153",
+      "width": 2160,
+      "height": 2160,
+      "position": 4,
+      "downloaded": true
+    }
+  ]
+}

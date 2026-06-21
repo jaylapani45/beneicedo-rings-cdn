@@ -1,0 +1,75 @@
+{
+  "id": 8257881047238,
+  "title": "Lab Grown Diamond Solitaire Engagement Ring",
+  "handle": "lab-grown-diamond-solitaire-engagemnt-ring-1",
+  "url": "https://www.beneicedo.com/products/lab-grown-diamond-solitaire-engagemnt-ring-1",
+  "product_type": "lab ring",
+  "vendor": "BeneiceDo",
+  "tags": [
+    "Lab Grown Diamond Solitaire Engagemnt Ring",
+    "Round",
+    "Solitaire"
+  ],
+  "options": [
+    "Title"
+  ],
+  "carats_available": [
+    "Default Title"
+  ],
+  "sizes_available": [],
+  "price_min": 1600.0,
+  "price_max": 1600.0,
+  "currency": "USD",
+  "in_stock": true,
+  "created_at": "2024-07-03T03:02:55-07:00",
+  "updated_at": "2026-06-21T06:14:00-07:00",
+  "published_at": "2024-10-11T02:06:31-07:00",
+  "description": "Lab-Grown Diamond  Engagement Ring  In 18K White Gold\n\nElegance meets sustainability in this stunning 18K white gold Engagement Ring, featuring a brilliant lab-grown diamond centerpiece. Expertly crafted, the ring showcases a dazzling diamond that radiates beauty and sophistication. With its ethical origins and impeccable sparkle, this ring perfectly symbolizes love and commitment.\n\nMaterial：18k White gold\nStone: Lab Grown Diamond\nCarat Weight: 1.0ct\nColor Grade : D\nClarity Grade: VVS2\nCut Grade: Excellent",
+  "variants": [
+    {
+      "id": 43926499000518,
+      "sku": "KRKC-0003-RI-LG-18K-SL-6.5mm",
+      "title": "Default Title",
+      "carat": "Default Title",
+      "size": null,
+      "price": "1600.00",
+      "compare_at_price": null,
+      "available": true,
+      "grams": 0
+    }
+  ],
+  "images": [
+    {
+      "file": "01.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/Dingtalk_20240704122451.jpg?v=1720067137",
+      "width": 598,
+      "height": 429,
+      "position": 1,
+      "downloaded": true
+    },
+    {
+      "file": "02.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/sda3668_1.jpg?v=1720067143",
+      "width": 2316,
+      "height": 2320,
+      "position": 2,
+      "downloaded": true
+    },
+    {
+      "file": "03.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/sda3668_2.jpg?v=1720067143",
+      "width": 2316,
+      "height": 2320,
+      "position": 3,
+      "downloaded": true
+    },
+    {
+      "file": "04.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/sda3668_3.jpg?v=1720067143",
+      "width": 2320,
+      "height": 2316,
+      "position": 4,
+      "downloaded": true
+    }
+  ]
+}

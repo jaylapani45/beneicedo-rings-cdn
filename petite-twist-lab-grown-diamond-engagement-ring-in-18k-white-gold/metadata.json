@@ -1,0 +1,236 @@
+{
+  "id": 8289304641734,
+  "title": "Petite Twist Lab Grown Diamond Solitaire Engagement Ring in 18k White Gold",
+  "handle": "petite-twist-lab-grown-diamond-engagement-ring-in-18k-white-gold",
+  "url": "https://www.beneicedo.com/products/petite-twist-lab-grown-diamond-engagement-ring-in-18k-white-gold",
+  "product_type": "lab ring",
+  "vendor": "bryce-dev",
+  "tags": [
+    "Lab Grown Diamond Solitaire Engagemnt Ring",
+    "Round",
+    "Solitaire"
+  ],
+  "options": [
+    "Carats",
+    "size"
+  ],
+  "carats_available": [
+    "1.0ct",
+    "2.0ct"
+  ],
+  "sizes_available": [
+    "5#",
+    "5.5#",
+    "6#",
+    "6.5#",
+    "7#",
+    "7.5#",
+    "8#"
+  ],
+  "price_min": 1400.0,
+  "price_max": 2400.0,
+  "currency": "USD",
+  "in_stock": true,
+  "created_at": "2024-08-07T18:34:09-07:00",
+  "updated_at": "2026-06-21T06:14:00-07:00",
+  "published_at": "2024-08-07T18:43:08-07:00",
+  "description": "Four-Prong Solitaire Petite Twist Lab Grown Diamond Engagement Ring\n\nBrilliant Lab Grown Diamond solitaire with exceptional sparkle\nThe classic Four-prong setting for a secure and stunning presentation\nPetite Twist design with diamond accents for added elegance\nExpert craftsmanship for a luxurious and refined finish\nPerfect for engagements, anniversaries, and special moments\nCelebrate your journey together with the timeless beauty and radiant sparkle of this Lab Grown Diamond ring. A cherished symbol of your enduring love and commitment.\n\nMaterial：18k White gold\n\nStone：Lab Grown Diamon\n\nCarat Weight: 1.0/2.0ct\n\nColor Grade : D\n\nClarity Grade: VVS2\n\nCut Grade: Excellent",
+  "variants": [
+    {
+      "id": 44006556729542,
+      "sku": "KRKC-0178-RI-LG-18K-SL-5",
+      "title": "1.0ct / 5#",
+      "carat": "1.0ct",
+      "size": "5#",
+      "price": "1400.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006556762310,
+      "sku": "KRKC-0178-RI-LG-18K-SL-5.5",
+      "title": "1.0ct / 5.5#",
+      "carat": "1.0ct",
+      "size": "5.5#",
+      "price": "1400.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006556795078,
+      "sku": "KRKC-0178-RI-LG-18K-SL-6",
+      "title": "1.0ct / 6#",
+      "carat": "1.0ct",
+      "size": "6#",
+      "price": "1400.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006556827846,
+      "sku": "KRKC-0178-RI-LG-18K-SL-6.5",
+      "title": "1.0ct / 6.5#",
+      "carat": "1.0ct",
+      "size": "6.5#",
+      "price": "1400.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006556860614,
+      "sku": "KRKC-0178-RI-LG-18K-SL-7",
+      "title": "1.0ct / 7#",
+      "carat": "1.0ct",
+      "size": "7#",
+      "price": "1400.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006556893382,
+      "sku": "KRKC-0178-RI-LG-18K-SL-7.5",
+      "title": "1.0ct / 7.5#",
+      "carat": "1.0ct",
+      "size": "7.5#",
+      "price": "1400.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006556926150,
+      "sku": "KRKC-0178-RI-LG-18K-SL-8",
+      "title": "1.0ct / 8#",
+      "carat": "1.0ct",
+      "size": "8#",
+      "price": "1400.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006556958918,
+      "sku": "KRKC-0178-RI-LG-18K-SL-8mm-5",
+      "title": "2.0ct / 5#",
+      "carat": "2.0ct",
+      "size": "5#",
+      "price": "2400.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006556991686,
+      "sku": "KRKC-0178-RI-LG-18K-SL-8mm-5.5",
+      "title": "2.0ct / 5.5#",
+      "carat": "2.0ct",
+      "size": "5.5#",
+      "price": "2400.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006557024454,
+      "sku": "KRKC-0178-RI-LG-18K-SL-8mm-6",
+      "title": "2.0ct / 6#",
+      "carat": "2.0ct",
+      "size": "6#",
+      "price": "2400.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006557057222,
+      "sku": "KRKC-0178-RI-LG-18K-SL-8mm-6.5",
+      "title": "2.0ct / 6.5#",
+      "carat": "2.0ct",
+      "size": "6.5#",
+      "price": "2400.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006557089990,
+      "sku": "KRKC-0178-RI-LG-18K-SL-8mm-7",
+      "title": "2.0ct / 7#",
+      "carat": "2.0ct",
+      "size": "7#",
+      "price": "2400.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006557122758,
+      "sku": "KRKC-0178-RI-LG-18K-SL-8mm-7.5",
+      "title": "2.0ct / 7.5#",
+      "carat": "2.0ct",
+      "size": "7.5#",
+      "price": "2400.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006557155526,
+      "sku": "KRKC-0178-RI-LG-18K-SL-8mm-8",
+      "title": "2.0ct / 8#",
+      "carat": "2.0ct",
+      "size": "8#",
+      "price": "2400.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    }
+  ],
+  "images": [
+    {
+      "file": "01.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0178-RI-MO-SL-_-A-02_a3d07874-a4c7-4b72-b495-410432916e85.jpg?v=1723081126",
+      "width": 1600,
+      "height": 1600,
+      "position": 1,
+      "downloaded": true
+    },
+    {
+      "file": "02.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0178-RI-MO-SL-8mm-_-A-01_98e1df58-4f7f-4908-b260-2aec6be442f0.jpg?v=1723081126",
+      "width": 1600,
+      "height": 1600,
+      "position": 2,
+      "downloaded": true
+    },
+    {
+      "file": "03.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0178-RI-MO-SL-8mm-_-A-02_787fceca-558c-4ada-8789-0c0b4f4180e6.jpg?v=1723081125",
+      "width": 1600,
+      "height": 1600,
+      "position": 3,
+      "downloaded": true
+    },
+    {
+      "file": "04.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0178-RI-MO-SL-8mm-_-M-01.jpg?v=1720065326",
+      "width": 1600,
+      "height": 1600,
+      "position": 4,
+      "downloaded": true
+    },
+    {
+      "file": "05.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0178-RI-MO-SL-8mm-_-M-02.jpg?v=1720065326",
+      "width": 1600,
+      "height": 1600,
+      "position": 5,
+      "downloaded": true
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "id": 8255448940742,
+  "title": "Six-Prong  Moissanite Engagement Ring",
+  "handle": "moissanite-solitaire-engagement-rings-2",
+  "url": "https://www.beneicedo.com/products/moissanite-solitaire-engagement-rings-2",
+  "product_type": "moissanite ring",
+  "vendor": "bryce-dev",
+  "tags": [
+    "Moissanite Engagement Ring",
+    "Round",
+    "Solitaire"
+  ],
+  "options": [
+    "Carats",
+    "size"
+  ],
+  "carats_available": [
+    "1.0ct"
+  ],
+  "sizes_available": [
+    "5#",
+    "5.5#",
+    "6#",
+    "6.5#",
+    "7#",
+    "7.5#",
+    "8#"
+  ],
+  "price_min": 79.99,
+  "price_max": 79.99,
+  "currency": "USD",
+  "in_stock": true,
+  "created_at": "2024-07-02T03:57:09-07:00",
+  "updated_at": "2026-06-21T06:14:00-07:00",
+  "published_at": "2024-07-02T04:01:14-07:00",
+  "description": "Six-Prong Solitaire  Moissanite Engagement Ring\n\nElevate your elegance with our stunning Six-Prong Solitaire Smooth-Band Twist Moissanite Engagement Ring. This exquisite ring features a brilliant moissanite solitaire, securely set in a classic six-prong setting to maximize its sparkle and brilliance.\n\nThe band is designed with a smooth and sleek finish, gracefully twisting to add a modern and unique touch. Expertly crafted, this ring combines timeless elegance with contemporary style, making it a perfect choice for any occasion.\n\nMaterial: 925 Sterling Silver\n\nCarat Weight: 1.0ct\n\nColor Grade : D\n\nClarity Grade: VVS1\n\nCut Grade: Excellent",
+  "variants": [
+    {
+      "id": 43921560535238,
+      "sku": "KRKC-0181-RI-MO-SL-5",
+      "title": "1.0ct / 5#",
+      "carat": "1.0ct",
+      "size": "5#",
+      "price": "79.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921560568006,
+      "sku": "KRKC-0181-RI-MO-SL-5.5",
+      "title": "1.0ct / 5.5#",
+      "carat": "1.0ct",
+      "size": "5.5#",
+      "price": "79.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921560600774,
+      "sku": "KRKC-0181-RI-MO-SL-6",
+      "title": "1.0ct / 6#",
+      "carat": "1.0ct",
+      "size": "6#",
+      "price": "79.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921560633542,
+      "sku": "KRKC-0181-RI-MO-SL-6.5",
+      "title": "1.0ct / 6.5#",
+      "carat": "1.0ct",
+      "size": "6.5#",
+      "price": "79.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921560666310,
+      "sku": "KRKC-0181-RI-MO-SL-7",
+      "title": "1.0ct / 7#",
+      "carat": "1.0ct",
+      "size": "7#",
+      "price": "79.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921560731846,
+      "sku": "KRKC-0181-RI-MO-SL-7.5",
+      "title": "1.0ct / 7.5#",
+      "carat": "1.0ct",
+      "size": "7.5#",
+      "price": "79.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921560764614,
+      "sku": "KRKC-0181-RI-MO-SL-8",
+      "title": "1.0ct / 8#",
+      "carat": "1.0ct",
+      "size": "8#",
+      "price": "79.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    }
+  ],
+  "images": [
+    {
+      "file": "01.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0181-RI-MO-SL-_-A-02.jpg?v=1719917998",
+      "width": 1600,
+      "height": 1600,
+      "position": 1,
+      "downloaded": true
+    },
+    {
+      "file": "02.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0181-RI-MO-SL-_-A-01.jpg?v=1719917998",
+      "width": 1600,
+      "height": 1600,
+      "position": 2,
+      "downloaded": true
+    },
+    {
+      "file": "03.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0181-RI-MO-SL-_-M-01.jpg?v=1719917970",
+      "width": 1600,
+      "height": 1600,
+      "position": 3,
+      "downloaded": true
+    },
+    {
+      "file": "04.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0181-RI-MO-SL-_-M-02.jpg?v=1719917970",
+      "width": 1600,
+      "height": 1600,
+      "position": 4,
+      "downloaded": true
+    }
+  ]
+}

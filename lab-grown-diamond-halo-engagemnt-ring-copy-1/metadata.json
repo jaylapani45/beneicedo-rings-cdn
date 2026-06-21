@@ -1,0 +1,74 @@
+{
+  "id": 8257942290630,
+  "title": "Lab Grown Diamond Designer Engagement Ring",
+  "handle": "lab-grown-diamond-halo-engagemnt-ring-copy-1",
+  "url": "https://www.beneicedo.com/products/lab-grown-diamond-halo-engagemnt-ring-copy-1",
+  "product_type": "lab ring",
+  "vendor": "BeneiceDo",
+  "tags": [
+    "Lab Grown Diamond Solitaire Engagemnt Ring",
+    "Round"
+  ],
+  "options": [
+    "Title"
+  ],
+  "carats_available": [
+    "Default Title"
+  ],
+  "sizes_available": [],
+  "price_min": 1800.0,
+  "price_max": 1800.0,
+  "currency": "USD",
+  "in_stock": true,
+  "created_at": "2024-07-03T03:31:52-07:00",
+  "updated_at": "2026-06-21T06:14:00-07:00",
+  "published_at": "2024-10-11T02:06:34-07:00",
+  "description": "Lab-Grown Diamond Designer Engagement Ring\n\nThis designer engagement ring, crafted with precision and elegance, features a captivating lab-grown diamond at its heart. Encircled by a halo of sparkling diamonds, the center stone shines brilliantly, making a bold statement of love and commitment.\n\nMaterial：18k White gold\nStone: Lab Grown Diamond\nCarat Weight: 1.0ct\nColor Grade : D\nClarity Grade: VVS2\nCut Grade: Excellent",
+  "variants": [
+    {
+      "id": 43926623289542,
+      "sku": "KRKC-0007-RI-LG-18K-SL-6.5mm",
+      "title": "Default Title",
+      "carat": "Default Title",
+      "size": null,
+      "price": "1800.00",
+      "compare_at_price": null,
+      "available": true,
+      "grams": 0
+    }
+  ],
+  "images": [
+    {
+      "file": "01.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/1_4f9dc2c4-7117-4610-bfca-115e08811966.jpg?v=1731294547",
+      "width": 1000,
+      "height": 1000,
+      "position": 1,
+      "downloaded": true
+    },
+    {
+      "file": "02.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/SDA2508_3.jpg?v=1720073396",
+      "width": 2160,
+      "height": 2160,
+      "position": 2,
+      "downloaded": true
+    },
+    {
+      "file": "03.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/SDA2508_2.jpg?v=1720073396",
+      "width": 2160,
+      "height": 2160,
+      "position": 3,
+      "downloaded": true
+    },
+    {
+      "file": "04.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/SDA2508_1.jpg?v=1720073396",
+      "width": 2160,
+      "height": 2160,
+      "position": 4,
+      "downloaded": true
+    }
+  ]
+}

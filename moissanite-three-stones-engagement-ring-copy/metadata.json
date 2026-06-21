@@ -1,0 +1,158 @@
+{
+  "id": 8289308377286,
+  "title": "Three Stones Lab Grown Diamond Engagement Ring",
+  "handle": "moissanite-three-stones-engagement-ring-copy",
+  "url": "https://www.beneicedo.com/products/moissanite-three-stones-engagement-ring-copy",
+  "product_type": "moissanite ring",
+  "vendor": "bryce-dev",
+  "tags": [
+    "Moissanite Engagement Ring",
+    "Round",
+    "Three Stone"
+  ],
+  "options": [
+    "Carats",
+    "size"
+  ],
+  "carats_available": [
+    "1.0ct"
+  ],
+  "sizes_available": [
+    "5#",
+    "5.5#",
+    "6#",
+    "6.5#",
+    "7#",
+    "7.5#",
+    "8#"
+  ],
+  "price_min": 1500.0,
+  "price_max": 1500.0,
+  "currency": "USD",
+  "in_stock": true,
+  "created_at": "2024-08-07T19:07:25-07:00",
+  "updated_at": "2026-06-21T06:14:00-07:00",
+  "published_at": "2024-08-07T19:11:51-07:00",
+  "description": "Three-Stone Lab Grown Diamond Engagement Ring\n\nThis exquisite piece features three stunning Lab Grown Diamond stones, each radiating exceptional brilliance and fire. The open-band design adds a modern twist, creating a unique and sophisticated look.\n\nCrafted with precision, the ring showcases a sleek, minimalist band that elegantly wraps around your finger, allowing the three Lab Grown Diamond stones to take center stage. Perfect for engagements, anniversaries, or any special occasion, this ring symbolizes the past, present, and future of your love.\n\nMaterial: 18k White gold\n\nCarat Weight: 1.0ct\n\nColor Grade : D\n\nClarity Grade: VVS2\n\nCut Grade: Excellent",
+  "variants": [
+    {
+      "id": 44006605652166,
+      "sku": "KRKC-0180-RI-LG-18K-SL-5",
+      "title": "1.0ct / 5#",
+      "carat": "1.0ct",
+      "size": "5#",
+      "price": "1500.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006605684934,
+      "sku": "KRKC-0180-RI-LG-18K-SL-5.5",
+      "title": "1.0ct / 5.5#",
+      "carat": "1.0ct",
+      "size": "5.5#",
+      "price": "1500.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006605717702,
+      "sku": "KRKC-0180-RI-LG-18K-SL-6",
+      "title": "1.0ct / 6#",
+      "carat": "1.0ct",
+      "size": "6#",
+      "price": "1500.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006605750470,
+      "sku": "KRKC-0180-RI-LG-18K-SL-6.5",
+      "title": "1.0ct / 6.5#",
+      "carat": "1.0ct",
+      "size": "6.5#",
+      "price": "1500.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006605783238,
+      "sku": "KRKC-0180-RI-LG-18K-SL-7",
+      "title": "1.0ct / 7#",
+      "carat": "1.0ct",
+      "size": "7#",
+      "price": "1500.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006605816006,
+      "sku": "KRKC-0180-RI-LG-18K-SL-7.5",
+      "title": "1.0ct / 7.5#",
+      "carat": "1.0ct",
+      "size": "7.5#",
+      "price": "1500.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006605848774,
+      "sku": "KRKC-0180-RI-LG-18K-SL-8",
+      "title": "1.0ct / 8#",
+      "carat": "1.0ct",
+      "size": "8#",
+      "price": "1500.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    }
+  ],
+  "images": [
+    {
+      "file": "01.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0180-RI-MO-SL-_-A-02_812287b8-6876-4495-a305-c048dcc6fba0.jpg?v=1723082996",
+      "width": 1600,
+      "height": 1600,
+      "position": 1,
+      "downloaded": true
+    },
+    {
+      "file": "02.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0180-RI-MO-SL-_-A-03_4904d033-a06e-4e8a-a09e-9094dfd5252e.jpg?v=1723082996",
+      "width": 1600,
+      "height": 1600,
+      "position": 2,
+      "downloaded": true
+    },
+    {
+      "file": "03.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0180-RI-MO-SL-_-001_87e53020-8c6b-4ce8-916b-0feb2e50c94d.jpg?v=1723082996",
+      "width": 1600,
+      "height": 1600,
+      "position": 3,
+      "downloaded": true
+    },
+    {
+      "file": "04.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0180-RI-MO-SL-_-m-01.jpg?v=1719917451",
+      "width": 1600,
+      "height": 1600,
+      "position": 4,
+      "downloaded": true
+    },
+    {
+      "file": "05.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0180-RI-MO-SL-_-m-02.jpg?v=1719917440",
+      "width": 1600,
+      "height": 1600,
+      "position": 5,
+      "downloaded": true
+    }
+  ]
+}

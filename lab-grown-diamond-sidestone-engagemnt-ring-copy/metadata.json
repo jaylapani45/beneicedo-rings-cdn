@@ -1,0 +1,82 @@
+{
+  "id": 8257910931654,
+  "title": "Lab Grown Diamond Halo Engagement Ring",
+  "handle": "lab-grown-diamond-sidestone-engagemnt-ring-copy",
+  "url": "https://www.beneicedo.com/products/lab-grown-diamond-sidestone-engagemnt-ring-copy",
+  "product_type": "lab ring",
+  "vendor": "BeneiceDo",
+  "tags": [
+    "Lab Grown Diamond Solitaire Engagemnt Ring",
+    "Round"
+  ],
+  "options": [
+    "Title"
+  ],
+  "carats_available": [
+    "Default Title"
+  ],
+  "sizes_available": [],
+  "price_min": 1700.0,
+  "price_max": 1700.0,
+  "currency": "USD",
+  "in_stock": true,
+  "created_at": "2024-07-03T03:16:14-07:00",
+  "updated_at": "2026-06-21T06:14:00-07:00",
+  "published_at": "2024-10-11T02:06:31-07:00",
+  "description": "The Halo ring in 18K White Gold with a round brilliant Lab-Grown Diamond\n\nThe Halo engagement ring is our rendition of a classically romantic setting. Celebrate your love with this exquisite 18K white gold engagement ring, featuring a breathtaking lab-grown diamond at its center, encircled by a halo of smaller diamonds. The band is adorned with additional diamonds, adding extra brilliance and sparkle. This elegant ring  represents a timeless commitment\n\nMaterial：18k White gold\nStone: Lab Grown Diamond\nCarat Weight: 1.0ct\nColor Grade : D\nClarity Grade: VVS2\nCut Grade: Excellent",
+  "variants": [
+    {
+      "id": 43926536585414,
+      "sku": "KRKC-0004-RI-LG-18K-SL-6.5mm",
+      "title": "Default Title",
+      "carat": "Default Title",
+      "size": null,
+      "price": "1700.00",
+      "compare_at_price": null,
+      "available": true,
+      "grams": 0
+    }
+  ],
+  "images": [
+    {
+      "file": "01.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/O1CN01oXMGFf2B5V2GXTj2E__3837628287-0-cib.jpg?v=1720066179",
+      "width": 828,
+      "height": 819,
+      "position": 1,
+      "downloaded": true
+    },
+    {
+      "file": "02.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/O1CN01o1bsCG1NjavpiRfST__2211758461606-0-cib.jpg?v=1720066179",
+      "width": 1200,
+      "height": 1200,
+      "position": 2,
+      "downloaded": true
+    },
+    {
+      "file": "03.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/SDA3042_1.jpg?v=1720001905",
+      "width": 2160,
+      "height": 2160,
+      "position": 3,
+      "downloaded": true
+    },
+    {
+      "file": "04.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/SDA3042_2.jpg?v=1720001905",
+      "width": 2160,
+      "height": 2160,
+      "position": 4,
+      "downloaded": true
+    },
+    {
+      "file": "05.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/SDA3042_3.jpg?v=1720001905",
+      "width": 2160,
+      "height": 2160,
+      "position": 5,
+      "downloaded": true
+    }
+  ]
+}

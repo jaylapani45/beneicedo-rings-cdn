@@ -1,0 +1,158 @@
+{
+  "id": 8255481610438,
+  "title": "Moissanite Three-Stones Engagement Ring",
+  "handle": "moissanite-three-stones-engagement-rings-1",
+  "url": "https://www.beneicedo.com/products/moissanite-three-stones-engagement-rings-1",
+  "product_type": "moissanite ring",
+  "vendor": "bryce-dev",
+  "tags": [
+    "Moissanite Engagement Ring",
+    "Round",
+    "Three Stone"
+  ],
+  "options": [
+    "Carats",
+    "size"
+  ],
+  "carats_available": [
+    "0.5ct"
+  ],
+  "sizes_available": [
+    "5#",
+    "5.5#",
+    "6#",
+    "6.5#",
+    "7#",
+    "7.5#",
+    "8#"
+  ],
+  "price_min": 69.99,
+  "price_max": 69.99,
+  "currency": "USD",
+  "in_stock": true,
+  "created_at": "2024-07-02T04:50:03-07:00",
+  "updated_at": "2026-06-21T06:14:00-07:00",
+  "published_at": "2024-07-02T18:22:54-07:00",
+  "description": "Six-Prong Three-Stone Moissanite  Engagement Ring\n\nThree brilliant moissanite stones symbolizing past, present, and future\nSmooth band with a twist design for a modern and sophisticated look\nExpert craftsmanship for a luxurious and refined finish\nPerfect for engagements, anniversaries, and special moments\nCelebrate your love story with the timeless elegance and symbolic meaning of this moissanite ring. A cherished symbol of your journey together, destined to be treasured forever.\n\nMaterial: 925 Sterling Silver\n\nCarat Weight: 1.0ct\n\nColor Grade : D\n\nClarity Grade: VVS1\n\nCut Grade: Excellent",
+  "variants": [
+    {
+      "id": 43921662181574,
+      "sku": "KRKC-0187-RI-MO-SL-5mm-5",
+      "title": "0.5ct / 5#",
+      "carat": "0.5ct",
+      "size": "5#",
+      "price": "69.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921662214342,
+      "sku": "KRKC-0187-RI-MO-SL-5mm-5.5",
+      "title": "0.5ct / 5.5#",
+      "carat": "0.5ct",
+      "size": "5.5#",
+      "price": "69.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921662247110,
+      "sku": "KRKC-0187-RI-MO-SL-5mm-6",
+      "title": "0.5ct / 6#",
+      "carat": "0.5ct",
+      "size": "6#",
+      "price": "69.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921662279878,
+      "sku": "KRKC-0187-RI-MO-SL-5mm-6.5",
+      "title": "0.5ct / 6.5#",
+      "carat": "0.5ct",
+      "size": "6.5#",
+      "price": "69.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921662312646,
+      "sku": "KRKC-0187-RI-MO-SL-5mm-7",
+      "title": "0.5ct / 7#",
+      "carat": "0.5ct",
+      "size": "7#",
+      "price": "69.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921662345414,
+      "sku": "KRKC-0187-RI-MO-SL-5mm-7.5",
+      "title": "0.5ct / 7.5#",
+      "carat": "0.5ct",
+      "size": "7.5#",
+      "price": "69.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921662378182,
+      "sku": "KRKC-0187-RI-MO-SL-5mm-8",
+      "title": "0.5ct / 8#",
+      "carat": "0.5ct",
+      "size": "8#",
+      "price": "69.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    }
+  ],
+  "images": [
+    {
+      "file": "01.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0187-RI-MO-SL-5mm-_-A-01.jpg?v=1719921130",
+      "width": 1600,
+      "height": 1600,
+      "position": 1,
+      "downloaded": true
+    },
+    {
+      "file": "02.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0187-RI-MO-SL-5mm-_-M-01.jpg?v=1719921135",
+      "width": 1600,
+      "height": 1600,
+      "position": 2,
+      "downloaded": true
+    },
+    {
+      "file": "03.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0187-RI-MO-SL-5mm-_-M-02.jpg?v=1719921135",
+      "width": 1600,
+      "height": 1600,
+      "position": 3,
+      "downloaded": true
+    },
+    {
+      "file": "04.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0187-RI-MO-SL-5mm-_-M-03.jpg?v=1719921135",
+      "width": 1600,
+      "height": 1600,
+      "position": 4,
+      "downloaded": true
+    },
+    {
+      "file": "05.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0187-RI-MO-SL-5mm-_-CC-01-EN.jpg?v=1719921135",
+      "width": 1600,
+      "height": 1600,
+      "position": 5,
+      "downloaded": true
+    }
+  ]
+}

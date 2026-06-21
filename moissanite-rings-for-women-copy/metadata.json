@@ -1,0 +1,128 @@
+{
+  "id": 8276365607110,
+  "title": "Moissanite Wedding Ring for Women",
+  "handle": "moissanite-rings-for-women-copy",
+  "url": "https://www.beneicedo.com/products/moissanite-rings-for-women-copy",
+  "product_type": "moissanite ring",
+  "vendor": "bryce-dev",
+  "tags": [
+    "Moissanite Engagement Ring"
+  ],
+  "options": [
+    "Carats",
+    "size"
+  ],
+  "carats_available": [
+    "1.5ct"
+  ],
+  "sizes_available": [
+    "5#",
+    "6#",
+    "7#",
+    "8#"
+  ],
+  "price_min": 89.99,
+  "price_max": 89.99,
+  "currency": "USD",
+  "in_stock": true,
+  "created_at": "2024-07-21T20:16:29-07:00",
+  "updated_at": "2026-06-21T06:14:00-07:00",
+  "published_at": "2024-07-21T20:20:55-07:00",
+  "description": "Five-Stone Tennis Moissanite Ring\n\nOur Five-Stone Tennis Moissanite Ring features five meticulously cut moissanite gemstones, each showcasing unmatched sparkle and fire. Set in a sleek and elegant band, this ring is designed to capture light from every angle, ensuring a dazzling display of brilliance.\n\nMaterial: 925 Sterling Silver\n\nCarat Weight: 1.5ct\n\nColor Grade : D\n\nClarity Grade: VVS1\n\nCut Grade: Excellent",
+  "variants": [
+    {
+      "id": 43972941873350,
+      "sku": "KRKC-0116-MO-RI-5",
+      "title": "1.5ct / 5#",
+      "carat": "1.5ct",
+      "size": "5#",
+      "price": "89.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43972941906118,
+      "sku": "KRKC-0116-MO-RI-6",
+      "title": "1.5ct / 6#",
+      "carat": "1.5ct",
+      "size": "6#",
+      "price": "89.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43972934172870,
+      "sku": "KRKC-0116-MO-RI-7",
+      "title": "1.5ct / 7#",
+      "carat": "1.5ct",
+      "size": "7#",
+      "price": "89.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43972934205638,
+      "sku": "KRKC-0116-MO-RI-8",
+      "title": "1.5ct / 8#",
+      "carat": "1.5ct",
+      "size": "8#",
+      "price": "89.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    }
+  ],
+  "images": [
+    {
+      "file": "01.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0116-MO-RI-5_Tennis_S925-01.jpg?v=1721618412",
+      "width": 1600,
+      "height": 1600,
+      "position": 1,
+      "downloaded": true
+    },
+    {
+      "file": "02.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0116-MO-RI-5_Tennis_S925-02.jpg?v=1721618290",
+      "width": 1600,
+      "height": 1600,
+      "position": 2,
+      "downloaded": true
+    },
+    {
+      "file": "03.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0116-MO-RI-5_Tennis_S925-03.jpg?v=1721618290",
+      "width": 1600,
+      "height": 1600,
+      "position": 3,
+      "downloaded": true
+    },
+    {
+      "file": "04.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0116-MO-RI-5_Tennis_S925-06.jpg?v=1730966399",
+      "width": 1600,
+      "height": 1600,
+      "position": 4,
+      "downloaded": true
+    },
+    {
+      "file": "05.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0116-MO-RI-5_Tennis_S925-05.jpg?v=1721618290",
+      "width": 1600,
+      "height": 1600,
+      "position": 5,
+      "downloaded": true
+    },
+    {
+      "file": "06.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/6481b97c390d3a778a021a3546f4146b.jpg?v=1730966398",
+      "width": 1600,
+      "height": 1600,
+      "position": 6,
+      "downloaded": true
+    }
+  ]
+}

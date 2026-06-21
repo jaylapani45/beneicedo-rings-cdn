@@ -1,0 +1,142 @@
+{
+  "id": 8289339539654,
+  "title": "Six-Prong Twisted Band Solitaire Lab-Grown Engagement Ring",
+  "handle": "six-prong-twisted-band-lab-grown-engagement-ring",
+  "url": "https://www.beneicedo.com/products/six-prong-twisted-band-lab-grown-engagement-ring",
+  "product_type": "lab ring",
+  "vendor": "bryce-dev",
+  "tags": [
+    "Lab Grown Diamond Solitaire Engagemnt Ring",
+    "Round",
+    "Solitaire"
+  ],
+  "options": [
+    "Carats",
+    "size"
+  ],
+  "carats_available": [
+    "1.0ct"
+  ],
+  "sizes_available": [
+    "5#",
+    "5.5#",
+    "6#",
+    "6.5#",
+    "7#",
+    "7.5#",
+    "8#"
+  ],
+  "price_min": 1300.0,
+  "price_max": 1300.0,
+  "currency": "USD",
+  "in_stock": true,
+  "created_at": "2024-08-07T19:59:50-07:00",
+  "updated_at": "2026-06-21T06:14:00-07:00",
+  "published_at": "2024-08-07T20:03:11-07:00",
+  "description": "Six-Prong Twisted Band Lab-Grown Engagement Ring\n\nAdorn yourself with elegance and grace with our Six-Prong Solitaire with Diamond-Accented Twist Band Lab Grown Diamond Ring. This exquisite piece features a dazzling Lab Grown Diamond solitaire securely held in a classic six-prong setting, designed to maximize its brilliance and sparkle.\n\nThe band gracefully twists and is adorned with delicate diamond accents, adding a touch of sophistication and glamour. Meticulously crafted with attention to detail, this ring effortlessly combines classic charm with modern sophistication, making it ideal for any special occasion.\n\nMaterial：18k White gold\n\nStone：Lab Grown Diamon\n\nCarat Weight: 1.0ct\n\nColor Grade : D\n\nClarity Grade: VVS2\n\nCut Grade: Excellent",
+  "variants": [
+    {
+      "id": 44006668271814,
+      "sku": "KRKC-0183-RI-LG-18K-SL-5",
+      "title": "1.0ct / 5#",
+      "carat": "1.0ct",
+      "size": "5#",
+      "price": "1300.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006666502342,
+      "sku": "KRKC-0183-RI-LG-18K-SL-5.5",
+      "title": "1.0ct / 5.5#",
+      "carat": "1.0ct",
+      "size": "5.5#",
+      "price": "1300.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006666535110,
+      "sku": "KRKC-0183-RI-LG-18K-SL-6",
+      "title": "1.0ct / 6#",
+      "carat": "1.0ct",
+      "size": "6#",
+      "price": "1300.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006666567878,
+      "sku": "KRKC-0183-RI-LG-18K-SL-6.5",
+      "title": "1.0ct / 6.5#",
+      "carat": "1.0ct",
+      "size": "6.5#",
+      "price": "1300.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006666600646,
+      "sku": "KRKC-0183-RI-LG-18K-SL-7",
+      "title": "1.0ct / 7#",
+      "carat": "1.0ct",
+      "size": "7#",
+      "price": "1300.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006666633414,
+      "sku": "KRKC-0183-RI-LG-18K-SL-7.5",
+      "title": "1.0ct / 7.5#",
+      "carat": "1.0ct",
+      "size": "7.5#",
+      "price": "1300.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 44006666666182,
+      "sku": "KRKC-0183-RI-LG-18K-SL-8",
+      "title": "1.0ct / 8#",
+      "carat": "1.0ct",
+      "size": "8#",
+      "price": "1300.00",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    }
+  ],
+  "images": [
+    {
+      "file": "01.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0183-RI-MO-SL-_-A-02_4eeb8cbc-f3d5-4b16-90b2-7f2cf7bb688d.jpg?v=1723086057",
+      "width": 1600,
+      "height": 1600,
+      "position": 1,
+      "downloaded": true
+    },
+    {
+      "file": "02.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0183-RI-MO-SL-_-A-01_c6fcff65-f944-4397-9863-c61d1276e011.jpg?v=1723086057",
+      "width": 1600,
+      "height": 1600,
+      "position": 2,
+      "downloaded": true
+    },
+    {
+      "file": "03.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0183-RI-MO-SL-_-M-01.jpg?v=1719919453",
+      "width": 1600,
+      "height": 1600,
+      "position": 3,
+      "downloaded": true
+    }
+  ]
+}

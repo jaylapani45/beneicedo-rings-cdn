@@ -1,0 +1,83 @@
+{
+  "id": 8257822228678,
+  "title": "Lab Grown Diamond Solitaire Engagement Ring-BeneiceDo",
+  "handle": "lab-grown-diamond-solitaire-engagemnt-ring-beneicedo-2024-09",
+  "url": "https://www.beneicedo.com/products/lab-grown-diamond-solitaire-engagemnt-ring-beneicedo-2024-09",
+  "product_type": "lab ring",
+  "vendor": "BeneiceDo",
+  "tags": [
+    "Lab Grown Diamond Solitaire Engagemnt Ring",
+    "Round",
+    "Solitaire"
+  ],
+  "options": [
+    "Title"
+  ],
+  "carats_available": [
+    "Default Title"
+  ],
+  "sizes_available": [],
+  "price_min": 1200.0,
+  "price_max": 1200.0,
+  "currency": "USD",
+  "in_stock": true,
+  "created_at": "2024-07-03T02:38:11-07:00",
+  "updated_at": "2026-06-21T06:14:00-07:00",
+  "published_at": "2024-10-11T02:06:29-07:00",
+  "description": "The Six-Prong Solitaire Engagement Ring\n\nDiscover the epitome of classic beauty with our exquisite six-prong solitaire engagement ring，which captures timeless love and sophistication. a single brilliant-cut Lab-grown diamond meticulously set in a six-prong mount to maximize its radiance and brilliance.\n\nCrafted with precision and care, this stunning piece features\nEach facet reflects light with unparalleled clarity, creating a dazzling display of fire and brilliance.\n\nMaterial：18K Gold\nStone: Lab Grown Diamond\nCarat Weight: 1.0ct\nColor Grade : D\nClarity Grade: VVS2\nCut Grade: Excellent",
+  "variants": [
+    {
+      "id": 43926425960646,
+      "sku": "KRKC-0001-RI-LG-18K-SL-6.5mm",
+      "title": "Default Title",
+      "carat": "Default Title",
+      "size": null,
+      "price": "1200.00",
+      "compare_at_price": null,
+      "available": true,
+      "grams": 0
+    }
+  ],
+  "images": [
+    {
+      "file": "01.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/O1CN01oLzttJ1jX9bhJ8FO0__2212507364557-0-cib.jpg?v=1719999450",
+      "width": 1200,
+      "height": 1200,
+      "position": 1,
+      "downloaded": true
+    },
+    {
+      "file": "02.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/O1CN01SLzn0f1jX9ebPveHa__2212507364557-0-cib.jpg?v=1719999450",
+      "width": 1200,
+      "height": 1200,
+      "position": 2,
+      "downloaded": true
+    },
+    {
+      "file": "03.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/SDA3704_1.jpg?v=1719999450",
+      "width": 2160,
+      "height": 2160,
+      "position": 3,
+      "downloaded": true
+    },
+    {
+      "file": "04.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/SDA3704_2.jpg?v=1719999450",
+      "width": 2160,
+      "height": 2160,
+      "position": 4,
+      "downloaded": true
+    },
+    {
+      "file": "05.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/SDA3704_3.jpg?v=1719999450",
+      "width": 2160,
+      "height": 2160,
+      "position": 5,
+      "downloaded": true
+    }
+  ]
+}

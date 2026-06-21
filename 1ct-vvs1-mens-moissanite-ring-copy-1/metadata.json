@@ -1,0 +1,113 @@
+{
+  "id": 8276712882374,
+  "title": "Men's 1ct VVS1 Moissanite Ring",
+  "handle": "1ct-vvs1-mens-moissanite-ring-copy-1",
+  "url": "https://www.beneicedo.com/products/1ct-vvs1-mens-moissanite-ring-copy-1",
+  "product_type": "moissanite ring",
+  "vendor": "bryce-dev",
+  "tags": [
+    "Moissanite Engagement Ring"
+  ],
+  "options": [
+    "size"
+  ],
+  "carats_available": [
+    "10#",
+    "11#",
+    "12#",
+    "8#",
+    "9#"
+  ],
+  "sizes_available": [],
+  "price_min": 179.99,
+  "price_max": 179.99,
+  "currency": "USD",
+  "in_stock": true,
+  "created_at": "2024-07-22T01:27:23-07:00",
+  "updated_at": "2026-06-21T06:14:00-07:00",
+  "published_at": "2024-07-22T01:28:37-07:00",
+  "description": "Our Men's Moissanite Ring features a striking moissanite gemstone, expertly cut to showcase its extraordinary sparkle. The ring's design is both contemporary and timeless, featuring clean lines and a bold presence.Set in a robust and stylish band, this ring is the perfect blend of sophistication and masculinity, Step into a world of refined elegance and unparalleled brilliance with our Men's Moissanite Ring. making it an ideal accessory for any occasion.\n\nMaterial: 925 Sterling Silver\n\nCarat Weight: 1.0ct\n\nColor Grade : D\n\nClarity Grade: VVS1\n\nCut Grade: Excellent",
+  "variants": [
+    {
+      "id": 43974765347014,
+      "sku": "KRKC-0065-MO-RI-8",
+      "title": "8#",
+      "carat": "8#",
+      "size": null,
+      "price": "179.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43974765379782,
+      "sku": "KRKC-0065-MO-RI-9",
+      "title": "9#",
+      "carat": "9#",
+      "size": null,
+      "price": "179.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43974765412550,
+      "sku": "KRKC-0065-MO-RI-10",
+      "title": "10#",
+      "carat": "10#",
+      "size": null,
+      "price": "179.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43974765445318,
+      "sku": "KRKC-0065-MO-RI-11",
+      "title": "11#",
+      "carat": "11#",
+      "size": null,
+      "price": "179.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43974765478086,
+      "sku": "KRKC-0065-MO-RI-12",
+      "title": "12#",
+      "carat": "12#",
+      "size": null,
+      "price": "179.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    }
+  ],
+  "images": [
+    {
+      "file": "01.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/1_compressed_378e5dd6-a89a-41a2-bb49-52aa23e93db6.jpg?v=1721636868",
+      "width": 1000,
+      "height": 1000,
+      "position": 1,
+      "downloaded": true
+    },
+    {
+      "file": "02.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/2_compressed_b1120a8a-6c58-4328-afa9-7ef443e81b78.jpg?v=1721636868",
+      "width": 1000,
+      "height": 1000,
+      "position": 2,
+      "downloaded": true
+    },
+    {
+      "file": "03.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/3_compressed_376688b1-f98d-43c8-8ef5-136497dc18c5.jpg?v=1721636868",
+      "width": 1000,
+      "height": 1000,
+      "position": 3,
+      "downloaded": true
+    }
+  ]
+}

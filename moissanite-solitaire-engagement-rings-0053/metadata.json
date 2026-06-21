@@ -1,0 +1,551 @@
+{
+  "id": 8255230738630,
+  "title": "Angel's Eye Moissanite Engagement Ring",
+  "handle": "moissanite-solitaire-engagement-rings-0053",
+  "url": "https://www.beneicedo.com/products/moissanite-solitaire-engagement-rings-0053",
+  "product_type": "moissanite ring",
+  "vendor": "bryce-dev",
+  "tags": [
+    "Moissanite Engagement Ring",
+    "Round"
+  ],
+  "options": [
+    "Carats",
+    "size"
+  ],
+  "carats_available": [
+    "0.5ct",
+    "1.0ct",
+    "1.5ct",
+    "2.0ct"
+  ],
+  "sizes_available": [
+    "10#",
+    "5#",
+    "5.5#",
+    "6#",
+    "6.5#",
+    "7#",
+    "7.5#",
+    "8#",
+    "8.5#",
+    "9#",
+    "9.5#"
+  ],
+  "price_min": 79.99,
+  "price_max": 109.99,
+  "currency": "USD",
+  "in_stock": true,
+  "created_at": "2024-07-02T01:15:08-07:00",
+  "updated_at": "2026-06-21T06:14:00-07:00",
+  "published_at": "2024-07-02T01:54:32-07:00",
+  "description": "Angel's Eye Moissanite Engagement Ring\n\nCelebrate Your Love with a Timeless Moissanite Engagement  Ring\n\nDiscover the ethereal beauty of the Angel's Eye Moissanite Engagement Ring, Moissanite is renowned for its extraordinary brilliance, rivaling that of diamonds. Its exceptional refractive index ensures that each stone sparkles with unmatched fire and luminosity, making it the perfect symbol of your radiant love.\n\nMaterial: 925 Sterling Silver\n\nCarat Weight: 0.5/1.0/1.5/2.0ct\n\nColor Grade : D\n\nClarity Grade: VVS1\n\nCut Grade: Excellent",
+  "variants": [
+    {
+      "id": 43920966123718,
+      "sku": "KRKC-0053-MO-RI-5mm-5",
+      "title": "0.5ct / 5#",
+      "carat": "0.5ct",
+      "size": "5#",
+      "price": "79.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43920966156486,
+      "sku": "KRKC-0053-MO-RI-5mm-5.5",
+      "title": "0.5ct / 5.5#",
+      "carat": "0.5ct",
+      "size": "5.5#",
+      "price": "79.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087135942,
+      "sku": "KRKC-0053-MO-RI-5mm-6",
+      "title": "0.5ct / 6#",
+      "carat": "0.5ct",
+      "size": "6#",
+      "price": "79.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087168710,
+      "sku": "KRKC-0053-MO-RI-5mm-6.5",
+      "title": "0.5ct / 6.5#",
+      "carat": "0.5ct",
+      "size": "6.5#",
+      "price": "79.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087201478,
+      "sku": "KRKC-0053-MO-RI-5mm-7",
+      "title": "0.5ct / 7#",
+      "carat": "0.5ct",
+      "size": "7#",
+      "price": "79.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087234246,
+      "sku": "KRKC-0053-MO-RI-5mm-7.5",
+      "title": "0.5ct / 7.5#",
+      "carat": "0.5ct",
+      "size": "7.5#",
+      "price": "79.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087267014,
+      "sku": "KRKC-0053-MO-RI-5mm-8",
+      "title": "0.5ct / 8#",
+      "carat": "0.5ct",
+      "size": "8#",
+      "price": "79.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087430854,
+      "sku": "KRKC-0053-MO-RI-5",
+      "title": "1.0ct / 5#",
+      "carat": "1.0ct",
+      "size": "5#",
+      "price": "89.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087463622,
+      "sku": "KRKC-0053-MO-RI-5.5",
+      "title": "1.0ct / 5.5#",
+      "carat": "1.0ct",
+      "size": "5.5#",
+      "price": "89.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087496390,
+      "sku": "KRKC-0053-MO-RI-6",
+      "title": "1.0ct / 6#",
+      "carat": "1.0ct",
+      "size": "6#",
+      "price": "89.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087529158,
+      "sku": "KRKC-0053-MO-RI-6.5",
+      "title": "1.0ct / 6.5#",
+      "carat": "1.0ct",
+      "size": "6.5#",
+      "price": "89.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087561926,
+      "sku": "KRKC-0053-MO-RI-7",
+      "title": "1.0ct / 7#",
+      "carat": "1.0ct",
+      "size": "7#",
+      "price": "89.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087594694,
+      "sku": "KRKC-0053-MO-RI-7.5",
+      "title": "1.0ct / 7.5#",
+      "carat": "1.0ct",
+      "size": "7.5#",
+      "price": "89.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087627462,
+      "sku": "KRKC-0053-MO-RI-8",
+      "title": "1.0ct / 8#",
+      "carat": "1.0ct",
+      "size": "8#",
+      "price": "89.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087660230,
+      "sku": "KRKC-0053-MO-RI-8.5",
+      "title": "1.0ct / 8.5#",
+      "carat": "1.0ct",
+      "size": "8.5#",
+      "price": "89.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087692998,
+      "sku": "KRKC-0053-MO-RI-9",
+      "title": "1.0ct / 9#",
+      "carat": "1.0ct",
+      "size": "9#",
+      "price": "89.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087725766,
+      "sku": "KRKC-0053-MO-RI-9.5",
+      "title": "1.0ct / 9.5#",
+      "carat": "1.0ct",
+      "size": "9.5#",
+      "price": "89.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087758534,
+      "sku": "KRKC-0053-MO-RI-10",
+      "title": "1.0ct / 10#",
+      "carat": "1.0ct",
+      "size": "10#",
+      "price": "89.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087791302,
+      "sku": "KRKC-0053-MO-RI-7.5mm-5",
+      "title": "1.5ct / 5#",
+      "carat": "1.5ct",
+      "size": "5#",
+      "price": "99.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087824070,
+      "sku": "KRKC-0053-MO-RI-7.5mm-5.5",
+      "title": "1.5ct / 5.5#",
+      "carat": "1.5ct",
+      "size": "5.5#",
+      "price": "99.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087856838,
+      "sku": "KRKC-0053-MO-RI-7.5mm-6",
+      "title": "1.5ct / 6#",
+      "carat": "1.5ct",
+      "size": "6#",
+      "price": "99.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087889606,
+      "sku": "KRKC-0053-MO-RI-7.5mm-6.5",
+      "title": "1.5ct / 6.5#",
+      "carat": "1.5ct",
+      "size": "6.5#",
+      "price": "99.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087922374,
+      "sku": "KRKC-0053-MO-RI-7.5mm-7",
+      "title": "1.5ct / 7#",
+      "carat": "1.5ct",
+      "size": "7#",
+      "price": "99.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087955142,
+      "sku": "KRKC-0053-MO-RI-7.5mm-7.5",
+      "title": "1.5ct / 7.5#",
+      "carat": "1.5ct",
+      "size": "7.5#",
+      "price": "99.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921087987910,
+      "sku": "KRKC-0053-MO-RI-7.5mm-8",
+      "title": "1.5ct / 8#",
+      "carat": "1.5ct",
+      "size": "8#",
+      "price": "99.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921088020678,
+      "sku": "KRKC-0053-MO-RI-7.5mm-8.5",
+      "title": "1.5ct / 8.5#",
+      "carat": "1.5ct",
+      "size": "8.5#",
+      "price": "99.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921088053446,
+      "sku": "KRKC-0053-MO-RI-7.5mm-9",
+      "title": "1.5ct / 9#",
+      "carat": "1.5ct",
+      "size": "9#",
+      "price": "99.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921088086214,
+      "sku": "KRKC-0053-MO-RI-7.5mm-9.5",
+      "title": "1.5ct / 9.5#",
+      "carat": "1.5ct",
+      "size": "9.5#",
+      "price": "99.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921088118982,
+      "sku": "KRKC-0053-MO-RI-7.5mm-10",
+      "title": "1.5ct / 10#",
+      "carat": "1.5ct",
+      "size": "10#",
+      "price": "99.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921088151750,
+      "sku": "KRKC-0053-MO-RI-8mm-5",
+      "title": "2.0ct / 5#",
+      "carat": "2.0ct",
+      "size": "5#",
+      "price": "109.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921088184518,
+      "sku": "KRKC-0053-MO-RI-8mm-5.5",
+      "title": "2.0ct / 5.5#",
+      "carat": "2.0ct",
+      "size": "5.5#",
+      "price": "109.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921088217286,
+      "sku": "KRKC-0053-MO-RI-8mm-6",
+      "title": "2.0ct / 6#",
+      "carat": "2.0ct",
+      "size": "6#",
+      "price": "109.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921088250054,
+      "sku": "KRKC-0053-MO-RI-8mm-6.5",
+      "title": "2.0ct / 6.5#",
+      "carat": "2.0ct",
+      "size": "6.5#",
+      "price": "109.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921088282822,
+      "sku": "KRKC-0053-MO-RI-8mm-7",
+      "title": "2.0ct / 7#",
+      "carat": "2.0ct",
+      "size": "7#",
+      "price": "109.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921088315590,
+      "sku": "KRKC-0053-MO-RI-8mm-7.5",
+      "title": "2.0ct / 7.5#",
+      "carat": "2.0ct",
+      "size": "7.5#",
+      "price": "109.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921088348358,
+      "sku": "KRKC-0053-MO-RI-8mm-8",
+      "title": "2.0ct / 8#",
+      "carat": "2.0ct",
+      "size": "8#",
+      "price": "109.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921088381126,
+      "sku": "KRKC-0053-MO-RI-8mm-8.5",
+      "title": "2.0ct / 8.5#",
+      "carat": "2.0ct",
+      "size": "8.5#",
+      "price": "109.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921088413894,
+      "sku": "KRKC-0053-MO-RI-8mm-9",
+      "title": "2.0ct / 9#",
+      "carat": "2.0ct",
+      "size": "9#",
+      "price": "109.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921088446662,
+      "sku": "KRKC-0053-MO-RI-8mm-9.5",
+      "title": "2.0ct / 9.5#",
+      "carat": "2.0ct",
+      "size": "9.5#",
+      "price": "109.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    },
+    {
+      "id": 43921088479430,
+      "sku": "KRKC-0053-MO-RI-8mm-10",
+      "title": "2.0ct / 10#",
+      "carat": "2.0ct",
+      "size": "10#",
+      "price": "109.99",
+      "compare_at_price": "0.00",
+      "available": true,
+      "grams": 0
+    }
+  ],
+  "images": [
+    {
+      "file": "01.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0053-MO-RI-_-_0.5_S925-01.jpg?v=1719971698",
+      "width": 1600,
+      "height": 1600,
+      "position": 1,
+      "downloaded": true
+    },
+    {
+      "file": "02.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0053-MO-RI_-_1_S925-01_41e25580-f783-4b19-948d-91060da44997.jpg?v=1719971974",
+      "width": 1600,
+      "height": 1600,
+      "position": 2,
+      "downloaded": true
+    },
+    {
+      "file": "03.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0053-MO-RI-7.5mm_-_1.5_S925-01.jpg?v=1719971763",
+      "width": 1600,
+      "height": 1600,
+      "position": 3,
+      "downloaded": true
+    },
+    {
+      "file": "04.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0053-MO-RI-8mm_-_-A-01.jpg?v=1719973309",
+      "width": 1600,
+      "height": 1600,
+      "position": 4,
+      "downloaded": true
+    },
+    {
+      "file": "05.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0053-MO-RI-6.5mm_-_-A-02.jpg?v=1719909092",
+      "width": 1600,
+      "height": 1600,
+      "position": 5,
+      "downloaded": true
+    },
+    {
+      "file": "06.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0053-MO-RI-6.5mm_-_-A-03.jpg?v=1719909105",
+      "width": 1600,
+      "height": 1600,
+      "position": 6,
+      "downloaded": true
+    },
+    {
+      "file": "07.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0053-MO-RI-6.5mm_-_-A-04.jpg?v=1719909110",
+      "width": 1600,
+      "height": 1600,
+      "position": 7,
+      "downloaded": true
+    },
+    {
+      "file": "08.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0632/6812/6918/files/KRKC-0053-MO-RI-_-_-_1.jpg?v=1719909108",
+      "width": 1600,
+      "height": 1600,
+      "position": 8,
+      "downloaded": true
+    }
+  ]
+}
