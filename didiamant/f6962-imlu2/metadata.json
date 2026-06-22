@@ -1,0 +1,104 @@
+{
+  "id": 9351988773176,
+  "handle": "f6962-imlu2",
+  "url": "https://didiamant.com/products/f6962-imlu2",
+  "title_es": "Anillo de Compromiso en Oro 14k con Diamante 0.36 ct",
+  "product_type_src": "",
+  "vendor_src": "Didiamant",
+  "tags": "Anillo de Compromiso, Anillos Compromiso, Inmediata",
+  "options": [
+    {
+      "name": "Material",
+      "values": [
+        "Oro Blanco",
+        "Oro Amarillo"
+      ]
+    }
+  ],
+  "currency_src": "MXN",
+  "price_min_mxn": 18863.0,
+  "price_max_mxn": 18863.0,
+  "in_stock": false,
+  "created_at": "2024-05-21T11:40:49-06:00",
+  "updated_at": "2026-06-22T12:14:45-06:00",
+  "published_at": "2024-08-12T18:06:33-06:00",
+  "description_es": "Este hermoso anillo de compromiso en oro 14k es una muestra perfecta de amor y compromiso.\n\nCon un Diamante Lab de 0.36ct en el centro en Montura Solitario, este anillo es una verdadera joya que muestra el amor eterno que comparten dos personas. Un regalo perfecto para una ocasión especial. ¡Haz tu compromiso aún más especial con este anillo!",
+  "body_html": "<p>Este hermoso anillo de compromiso en oro 14k es una muestra perfecta de amor y compromiso.</p>\n<p>Con un Diamante Lab de 0.36ct en el centro en Montura Solitario, este anillo es una verdadera joya que muestra el amor eterno que comparten dos personas. Un regalo perfecto para una ocasión especial. ¡Haz tu compromiso aún más especial con este anillo!</p>\n<p><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0301/5121/3140/files/F6962-IMLU2.jpg?v=1723507560\" width=\"248\" height=\"331\"></p>\n<!---->",
+  "variants": [
+    {
+      "id": 48680445903160,
+      "sku": "F5481",
+      "title": "Oro Blanco",
+      "option1": "Oro Blanco",
+      "option2": null,
+      "option3": null,
+      "price_mxn": "18863.00",
+      "compare_at_price_mxn": "",
+      "available": null,
+      "grams": 80,
+      "barcode": "",
+      "requires_shipping": true
+    },
+    {
+      "id": 48680445935928,
+      "sku": "F5482",
+      "title": "Oro Amarillo",
+      "option1": "Oro Amarillo",
+      "option2": null,
+      "option3": null,
+      "price_mxn": "18863.00",
+      "compare_at_price_mxn": "",
+      "available": null,
+      "grams": 80,
+      "barcode": "",
+      "requires_shipping": true
+    }
+  ],
+  "images": [
+    {
+      "file": "01.png",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/files/IMG_7071_ca07dc45-0d12-472c-85f2-985dc7e66b7f.png?v=1716312949",
+      "width": 1824,
+      "height": 2058,
+      "position": 1,
+      "byte_size": 2656110,
+      "downloaded": true
+    },
+    {
+      "file": "02.png",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/files/F5481-IMLU-dorado.png?v=1716312949",
+      "width": 1615,
+      "height": 1824,
+      "position": 2,
+      "byte_size": 3300147,
+      "downloaded": true
+    },
+    {
+      "file": "03.png",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/files/F5481-IMLU.png?v=1716312950",
+      "width": 1617,
+      "height": 1824,
+      "position": 3,
+      "byte_size": 3409300,
+      "downloaded": true
+    },
+    {
+      "file": "04.png",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/files/IMG_7071_amarillo_48fe3509-90a6-4674-bcf8-3f5a17587fb1.png?v=1716312950",
+      "width": 1824,
+      "height": 2058,
+      "position": 4,
+      "byte_size": 2670013,
+      "downloaded": true
+    },
+    {
+      "file": "05.png",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/files/IMG_2024-05-21T17_37_43.344Z.png?v=1716313067",
+      "width": 1461,
+      "height": 1650,
+      "position": 5,
+      "byte_size": 1914497,
+      "downloaded": true
+    }
+  ]
+}

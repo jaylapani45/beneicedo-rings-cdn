@@ -1,0 +1,101 @@
+{
+  "id": 4802883715156,
+  "handle": "anillo-compromiso-100003",
+  "url": "https://didiamant.com/products/anillo-compromiso-100003",
+  "title_es": "Montura estilo pavé con diamantes 0.04 ct",
+  "product_type_src": "Joyería",
+  "vendor_src": "Didiamant",
+  "tags": "Anillo de Compromiso",
+  "options": [
+    {
+      "name": "Metal",
+      "values": [
+        "Oro blanco",
+        "Oro amarillo",
+        "Oro rosa"
+      ]
+    }
+  ],
+  "currency_src": "MXN",
+  "price_min_mxn": 26558.0,
+  "price_max_mxn": 26558.0,
+  "in_stock": false,
+  "created_at": "2020-11-27T08:47:14-06:00",
+  "updated_at": "2026-06-22T12:15:34-06:00",
+  "published_at": "2020-11-27T08:56:39-06:00",
+  "description_es": "Montura con un exquisito estilo Pavé. Cuenta con incrustaciones laterales de diamantes de 0.04cts c / u (medio brazo). El anillo tiene un ancho de 1.7 mm. de Oro de 14K. Las gemas apenas separadas se ubican con pequeñas puntas para que la superficie parezca \"pavimentada\" de gemas.\n\n*Diamante central se vende por separado.",
+  "body_html": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Montura con un exquisito estilo Pavé. </span></span></span></span></span><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Cuenta con incrustaciones laterales de diamantes de 0.04cts c / u (medio brazo). </span></span></span></span></span><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">El anillo tiene un ancho de 1.7 mm. </span></span></span></span></span><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">de Oro de 14K. </span></span></span></span></span><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Las gemas apenas separadas se ubican con pequeñas puntas para que la superficie parezca \"pavimentada\" de gemas. </span></span></span></span></span></span></p>\n<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span>*Diamante central se vende por separado.</span></span></span></span></span></span></span></p>",
+  "variants": [
+    {
+      "id": 32958555291732,
+      "sku": "",
+      "title": "Oro blanco",
+      "option1": "Oro blanco",
+      "option2": null,
+      "option3": null,
+      "price_mxn": "26558.00",
+      "compare_at_price_mxn": "",
+      "available": null,
+      "grams": 0,
+      "barcode": null,
+      "requires_shipping": true
+    },
+    {
+      "id": 32958555324500,
+      "sku": "",
+      "title": "Oro amarillo",
+      "option1": "Oro amarillo",
+      "option2": null,
+      "option3": null,
+      "price_mxn": "26558.00",
+      "compare_at_price_mxn": "",
+      "available": null,
+      "grams": 0,
+      "barcode": null,
+      "requires_shipping": true
+    },
+    {
+      "id": 32958555357268,
+      "sku": "",
+      "title": "Oro rosa",
+      "option1": "Oro rosa",
+      "option2": null,
+      "option3": null,
+      "price_mxn": "26558.00",
+      "compare_at_price_mxn": "",
+      "available": null,
+      "grams": 0,
+      "barcode": null,
+      "requires_shipping": true
+    }
+  ],
+  "images": [
+    {
+      "file": "01.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/products/pave.005b_ea2d6012-8e28-43ac-ba08-36118b77fe97.jpg?v=1652889320",
+      "width": 900,
+      "height": 1200,
+      "position": 1,
+      "byte_size": 30832,
+      "downloaded": true
+    },
+    {
+      "file": "02.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/products/pave.005amarillo_8de64917-4260-4960-8e3c-678bd964ad09.jpg?v=1652889320",
+      "width": 900,
+      "height": 1200,
+      "position": 2,
+      "byte_size": 43273,
+      "downloaded": true
+    },
+    {
+      "file": "03.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/products/pave.005_0a428116-2880-43ca-bf7c-637581561d6f.jpg?v=1652889320",
+      "width": 900,
+      "height": 1200,
+      "position": 3,
+      "byte_size": 43618,
+      "downloaded": true
+    }
+  ]
+}

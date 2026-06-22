@@ -1,0 +1,104 @@
+{
+  "id": 9351862976824,
+  "handle": "f6958-imlu2",
+  "url": "https://didiamant.com/products/f6958-imlu2",
+  "title_es": "Anillo de Compromiso en Oro 14k con Diamante 0.28 ct",
+  "product_type_src": "",
+  "vendor_src": "Didiamant",
+  "tags": "Anillo de Compromiso, Anillos Compromiso, Inmediata",
+  "options": [
+    {
+      "name": "Material",
+      "values": [
+        "Oro Blanco",
+        "Oro Amarillo"
+      ]
+    }
+  ],
+  "currency_src": "MXN",
+  "price_min_mxn": 17299.0,
+  "price_max_mxn": 17299.0,
+  "in_stock": false,
+  "created_at": "2024-05-21T11:05:24-06:00",
+  "updated_at": "2026-06-22T12:07:29-06:00",
+  "published_at": "2024-08-12T17:52:39-06:00",
+  "description_es": "Haz tu compromiso inolvidable con este Anillo de Compromiso en Oro 14k con Diamante Lab de 0.28 ct\n\nEl oro de 14k asegura calidad y elegancia, mientras que el diamante lab de 0.28 ct es el símbolo perfecto de amor y eternidad. Haz realidad tus sueños con este anillo excepcional.\n\n¡Sorpréndela hoy mismo!",
+  "body_html": "<p>Haz tu compromiso inolvidable con este Anillo de Compromiso en Oro 14k con Diamante Lab de 0.28 ct</p>\n<p>El oro de 14k asegura calidad y elegancia, mientras que el diamante lab de 0.28 ct es el símbolo perfecto de amor y eternidad. Haz realidad tus sueños con este anillo excepcional.</p>\n<p>¡Sorpréndela hoy mismo!</p>\n<p><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0301/5121/3140/files/F6958-IMLU2.jpg?v=1723507382\" width=\"232\" height=\"309\"></p>\n<p><img></p>",
+  "variants": [
+    {
+      "id": 48680452292920,
+      "sku": "F6069",
+      "title": "Oro Blanco",
+      "option1": "Oro Blanco",
+      "option2": null,
+      "option3": null,
+      "price_mxn": "17299.00",
+      "compare_at_price_mxn": "",
+      "available": null,
+      "grams": 80,
+      "barcode": "",
+      "requires_shipping": true
+    },
+    {
+      "id": 48680452325688,
+      "sku": "F6070",
+      "title": "Oro Amarillo",
+      "option1": "Oro Amarillo",
+      "option2": null,
+      "option3": null,
+      "price_mxn": "17299.00",
+      "compare_at_price_mxn": "",
+      "available": null,
+      "grams": 80,
+      "barcode": "",
+      "requires_shipping": true
+    }
+  ],
+  "images": [
+    {
+      "file": "01.png",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/files/lowcost_entregainmediata.png?v=1723581077",
+      "width": 1424,
+      "height": 1424,
+      "position": 1,
+      "byte_size": 1383387,
+      "downloaded": true
+    },
+    {
+      "file": "02.png",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/files/F6069-IMLU2_9916f399-1a83-4438-ae1c-448886aa89cb.png?v=1723581102",
+      "width": 1617,
+      "height": 1824,
+      "position": 2,
+      "byte_size": 2348690,
+      "downloaded": true
+    },
+    {
+      "file": "03.png",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/files/IMG_7071_91a79c16-f090-4da9-807c-464c4d776109.png?v=1723581102",
+      "width": 1824,
+      "height": 2058,
+      "position": 3,
+      "byte_size": 2656110,
+      "downloaded": true
+    },
+    {
+      "file": "04.png",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/files/IMG_7071_amarillo_69494672-6419-4aa4-8fe7-d0689c0de1f4.png?v=1723581102",
+      "width": 1824,
+      "height": 2058,
+      "position": 4,
+      "byte_size": 2670013,
+      "downloaded": true
+    },
+    {
+      "file": "05.png",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/files/IMG_6970_72518f96-5d69-460a-9601-2b5b821813ca.png?v=1716311985",
+      "width": 1622,
+      "height": 2055,
+      "position": 5,
+      "byte_size": 1888066,
+      "downloaded": true
+    }
+  ]
+}

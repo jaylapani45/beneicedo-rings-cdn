@@ -1,0 +1,101 @@
+{
+  "id": 4802886238292,
+  "handle": "anillo-compromiso-100059",
+  "url": "https://didiamant.com/products/anillo-compromiso-100059",
+  "title_es": "Montura estilo solitario con borde redondeado",
+  "product_type_src": "Joyería",
+  "vendor_src": "Didiamant",
+  "tags": "Anillo de Compromiso",
+  "options": [
+    {
+      "name": "Metal",
+      "values": [
+        "Oro blanco",
+        "Oro amarillo",
+        "Oro rosa"
+      ]
+    }
+  ],
+  "currency_src": "MXN",
+  "price_min_mxn": 17760.0,
+  "price_max_mxn": 17760.0,
+  "in_stock": false,
+  "created_at": "2020-11-27T08:50:43-06:00",
+  "updated_at": "2026-06-22T12:15:17-06:00",
+  "published_at": "2020-11-27T08:59:18-06:00",
+  "description_es": "Montura con un estilo tradicional solitario de 4 uñas y montura con bordes redondos. El anillo tiene un ancho de 2.5 mm. de Oro  de 14K.\n\n*Diamante central se vende por separado.",
+  "body_html": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Montura con un estilo tradicional solitario de 4 uñas y montura con bordes redondos. </span><span style=\"vertical-align: inherit;\">El anillo tiene un ancho de 2.5 mm. </span><span style=\"vertical-align: inherit;\">de Oro  de 14K. </span></span></p>\n<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span>*Diamante central se vende por separado.</span></span></span></p>",
+  "variants": [
+    {
+      "id": 32958562533460,
+      "sku": "",
+      "title": "Oro blanco",
+      "option1": "Oro blanco",
+      "option2": null,
+      "option3": null,
+      "price_mxn": "17760.00",
+      "compare_at_price_mxn": "",
+      "available": null,
+      "grams": 0,
+      "barcode": null,
+      "requires_shipping": true
+    },
+    {
+      "id": 32958562566228,
+      "sku": "",
+      "title": "Oro amarillo",
+      "option1": "Oro amarillo",
+      "option2": null,
+      "option3": null,
+      "price_mxn": "17760.00",
+      "compare_at_price_mxn": "",
+      "available": null,
+      "grams": 0,
+      "barcode": null,
+      "requires_shipping": true
+    },
+    {
+      "id": 32958562598996,
+      "sku": "",
+      "title": "Oro rosa",
+      "option1": "Oro rosa",
+      "option2": null,
+      "option3": null,
+      "price_mxn": "17760.00",
+      "compare_at_price_mxn": "",
+      "available": null,
+      "grams": 0,
+      "barcode": null,
+      "requires_shipping": true
+    }
+  ],
+  "images": [
+    {
+      "file": "01.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/products/solasscher3.jpg?v=1652891665",
+      "width": 900,
+      "height": 1200,
+      "position": 1,
+      "byte_size": 23705,
+      "downloaded": true
+    },
+    {
+      "file": "02.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/products/solasscher2.jpg?v=1652891665",
+      "width": 900,
+      "height": 1200,
+      "position": 2,
+      "byte_size": 28433,
+      "downloaded": true
+    },
+    {
+      "file": "03.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/products/SOLASSCHER.jpg?v=1652891665",
+      "width": 900,
+      "height": 1200,
+      "position": 3,
+      "byte_size": 24124,
+      "downloaded": true
+    }
+  ]
+}

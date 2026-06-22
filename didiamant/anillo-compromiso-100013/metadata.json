@@ -1,0 +1,101 @@
+{
+  "id": 4802884108372,
+  "handle": "anillo-compromiso-100013",
+  "url": "https://didiamant.com/products/anillo-compromiso-100013",
+  "title_es": "Montura de 3 piedras con diamantes laterales 0.10 ctw total",
+  "product_type_src": "Joyería",
+  "vendor_src": "Didiamant",
+  "tags": "Anillo de Compromiso",
+  "options": [
+    {
+      "name": "Metal",
+      "values": [
+        "Oro blanco",
+        "Oro amarillo",
+        "Oro rosa"
+      ]
+    }
+  ],
+  "currency_src": "MXN",
+  "price_min_mxn": 33088.0,
+  "price_max_mxn": 33088.0,
+  "in_stock": false,
+  "created_at": "2020-11-27T08:47:48-06:00",
+  "updated_at": "2026-06-22T12:15:23-06:00",
+  "published_at": "2020-11-27T08:56:25-06:00",
+  "description_es": "Anillo de compromiso con montura central especialmente diseñado para diamante con forma redonda, con un exquisito estilo Pavé con 1 diamante lateral de cada lado (2 diamantes). Así mismo cuenta con incrustaciones laterales (16 diamantes). El anillo tiene un ancho de 1.5 mm. de Oro Blanco de 14K. Las gemas apenas separadas se ubican con pequeñas puntas para que la superficie parezca \"pavimentada\" de gemas.\n\n*Diamante central se vende por separado.",
+  "body_html": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">Anillo de compromiso con montura central especialmente diseñado para diamante con forma redonda, con un exquisito estilo Pavé con 1 diamante lateral de cada lado (2 diamantes). </span><span style=\"vertical-align: inherit;\">Así mismo cuenta con incrustaciones laterales (16 diamantes). </span><span style=\"vertical-align: inherit;\">El anillo tiene un ancho de 1.5 mm. </span><span style=\"vertical-align: inherit;\">de Oro Blanco de 14K. </span><span style=\"vertical-align: inherit;\">Las gemas apenas separadas se ubican con pequeñas puntas para que la superficie parezca \"pavimentada\" de gemas.</span></span></p>\n<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span>*Diamante central se vende por separado.</span></span></span></p>",
+  "variants": [
+    {
+      "id": 32958556242004,
+      "sku": "",
+      "title": "Oro blanco",
+      "option1": "Oro blanco",
+      "option2": null,
+      "option3": null,
+      "price_mxn": "33088.00",
+      "compare_at_price_mxn": "",
+      "available": null,
+      "grams": 0,
+      "barcode": null,
+      "requires_shipping": true
+    },
+    {
+      "id": 32958556274772,
+      "sku": "",
+      "title": "Oro amarillo",
+      "option1": "Oro amarillo",
+      "option2": null,
+      "option3": null,
+      "price_mxn": "33088.00",
+      "compare_at_price_mxn": "",
+      "available": null,
+      "grams": 0,
+      "barcode": null,
+      "requires_shipping": true
+    },
+    {
+      "id": 32958556307540,
+      "sku": "",
+      "title": "Oro rosa",
+      "option1": "Oro rosa",
+      "option2": null,
+      "option3": null,
+      "price_mxn": "33088.00",
+      "compare_at_price_mxn": "",
+      "available": null,
+      "grams": 0,
+      "barcode": null,
+      "requires_shipping": true
+    }
+  ],
+  "images": [
+    {
+      "file": "01.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/products/diams3_756f410a-696b-4a59-b286-f79c86e9c49a.jpg?v=1652889461",
+      "width": 900,
+      "height": 1200,
+      "position": 1,
+      "byte_size": 39632,
+      "downloaded": true
+    },
+    {
+      "file": "02.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/products/diams2_ba3056cb-6b0f-42c9-b97f-8cd05f40e2d2.jpg?v=1652889461",
+      "width": 900,
+      "height": 1200,
+      "position": 2,
+      "byte_size": 43584,
+      "downloaded": true
+    },
+    {
+      "file": "03.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/products/diams_4abc33af-0df2-432b-858c-2f33a4041b82.jpg?v=1652889461",
+      "width": 900,
+      "height": 1200,
+      "position": 3,
+      "byte_size": 43947,
+      "downloaded": true
+    }
+  ]
+}

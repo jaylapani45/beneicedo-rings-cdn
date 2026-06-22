@@ -1,0 +1,71 @@
+{
+  "id": 9662730469688,
+  "handle": "j1759",
+  "url": "https://didiamant.com/products/j1759",
+  "title_es": "Anillo de Compromiso con Diamante Redondo y Pavé en Oro Blanco 14k",
+  "product_type_src": "Anillos Compromiso",
+  "vendor_src": "Didiamant",
+  "tags": "Anillo de Compromiso, Anillos Compromiso, Diamantes, Diamonds, entrega inmediata, Inmediata, Oro Blanco",
+  "options": [
+    {
+      "name": "Title",
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "currency_src": "MXN",
+  "price_min_mxn": 97920.0,
+  "price_max_mxn": 97920.0,
+  "in_stock": false,
+  "created_at": "2024-12-11T17:23:53-06:00",
+  "updated_at": "2026-06-22T12:07:35-06:00",
+  "published_at": "2024-12-11T17:23:53-06:00",
+  "description_es": "Anillo de Compromiso con un Diamante Lab Grown central en corte redondo de 1.37ct y pavé de diamantes corte marquise en Oro Blanco de 14k.\n\nTalla 5.25",
+  "body_html": "<style type=\"text/css\"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>\n<p><span data-sheets-root=\"1\">Anillo de Compromiso con un Diamante Lab Grown central en corte redondo de 1.37ct y pavé de diamantes corte marquise en Oro Blanco de 14k.</span></p>\n<p><span data-sheets-root=\"1\">Talla 5.25</span></p>",
+  "variants": [
+    {
+      "id": 49521626710328,
+      "sku": "J1759",
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "price_mxn": "97920.00",
+      "compare_at_price_mxn": "",
+      "available": null,
+      "grams": 0,
+      "barcode": "",
+      "requires_shipping": true
+    }
+  ],
+  "images": [
+    {
+      "file": "01.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/files/149A0547.jpg?v=1733959310",
+      "width": 2495,
+      "height": 2496,
+      "position": 1,
+      "byte_size": 210895,
+      "downloaded": true
+    },
+    {
+      "file": "02.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/files/149A0549.jpg?v=1733959294",
+      "width": 2495,
+      "height": 2496,
+      "position": 2,
+      "byte_size": 294055,
+      "downloaded": true
+    },
+    {
+      "file": "03.jpg",
+      "src": "https://cdn.shopify.com/s/files/1/0301/5121/3140/files/149A0552.jpg?v=1733959273",
+      "width": 2495,
+      "height": 2496,
+      "position": 3,
+      "byte_size": 875107,
+      "downloaded": true
+    }
+  ]
+}
